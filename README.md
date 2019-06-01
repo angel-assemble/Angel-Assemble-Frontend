@@ -38,15 +38,11 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
             - 비상 상황에는 각 상황별 정보 제공
         
 <p align="center">
-<img src="./images/disaster2.png" width="200" >	
+<img src="./images/page1.png" width="200" >	
 </p>
 
 <p align="center">
-<img src="./images/shelter.png" width="200" >	<img src="./images/shelter2.png" width="200" >	
-</p>
-
-<p align="center">
-<img src="./images/dust1.png" width="200" >	<img src="./images/dust2.png" width="200" >
+<img src="./images/page2.png" width="200" >
 </p>
 
 -------------------------------------------------------------
