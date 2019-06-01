@@ -9,3 +9,6 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 ## amplify configure
 ## amplify init
 * 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#set-up-the-aws-backend
+## amplify add auth
+- 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#implementing-authentication
+## amplify push
