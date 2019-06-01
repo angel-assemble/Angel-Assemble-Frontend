@@ -6,7 +6,7 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 * 구해줘, 도와줘, 미 ME
 
 <p align="center">
-<img src="./images/GUDOME.png" width="600" >	
+<img src="./images/GUDOME.png" width="300" >	
 </p>
 
 ### 자연재해
@@ -36,15 +36,15 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
         - 유저화면 : 평소에는 평화로운 화면, 비상 상황에는 각 상황별 정보 제공
         
 <p align="center">
-<img src="./images/disaster2.png" width="600" >	
+<img src="./images/disaster2.png" width="200" >	
 </p>
 
 <p align="center">
-<img src="./images/shelter.png" width="600" >	<img src="./images/shelter2.png" width="600" >	
+<img src="./images/shelter.png" width="200" >	<img src="./images/shelter2.png" width="200" >	
 </p>
 
 <p align="center">
-<img src="./images/dust.png" width="600" >	<img src="./images/dust2.png" width="600" >
+<img src="./images/dust.png" width="200" >	<img src="./images/dust2.png" width="200" >
 </p>
 
 -------------------------------------------------
