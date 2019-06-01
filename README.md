@@ -2,16 +2,38 @@
 AngelHack HACKATHON Seoul 2019 - Frontend Repository
 
 ## vue cli3설치
-## npm run serve
-* 로컬 테스트완료
-## npm install aws-amplify aws-amplify-vue@beta
-## npm install -g @aws-amplify/cli
-## amplify configure
-## amplify init
+
+```
+$ npm run serve
+```
+
+```
+$ npm install aws-amplify aws-amplify-vue@beta
+```
+
+```
+$ npm install -g @aws-amplify/cli
+```
+
+```
+$ amplify configure
+```
+
+```
+$ amplify init
+```
+
 * 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#set-up-the-aws-backend
-## amplify add auth
-- 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#implementing-authentication
-## amplify push
+
+```
+$ amplify add auth
+```
+
+* 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#implementing-authentication
+
+```
+$ amplify push
+```
 --------------------------------
 ## main.js
 
@@ -35,5 +57,25 @@ new Vue({
 }).$mount('#app')
 
 ```
-## using Authentication Components
-* https://aws-amplify.github.io/docs/js/vue#authentication-components
+
+----------------------------------------------------------
+
+## AWS amplify Authentication Components :  https://aws-amplify.github.io/docs/js/vue#authentication-components
+
+* LOGIN
+
+<p align="center">
+<img src="./images/main.png" width="600" >	
+</p>
+
+* SIGNUP
+
+<p align="center">
+<img src="./images/signup.png" width="600" >	
+</p>
+
+* SIGNIN
+
+<p align="center">
+<img src="./images/signin.png" width="600" >	
+</p>
