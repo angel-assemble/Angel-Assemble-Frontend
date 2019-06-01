@@ -9,7 +9,7 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 <img src="./images/GUDOME.png" width="300" >	
 </p>
 
-### 자연재해
+### FOCUS ON 자연재해
 
 - 재난 사항마다 해당 지역에서 해결 우선순위 제공
 - 재난 사항마다 사람마다 해야할 역할 배분, 우선순위 제공
@@ -22,10 +22,6 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
     - C지역 : 여려가지의 예방조치 안내
 3. 유저가 해당 행동을 해 재난 해결을 도움
     - 기여한 유저들에게 감사 메세지, 명예의 전당, 이에 대한 정보를 모아 국가 기관에 넘겨 포상 데이터
-
-#### example
-
-- 강원도 산불이 났을 때 일반인이 화약고에서 화약을 옮기는 조치를 함
 
 #### page
 
