@@ -48,7 +48,9 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 <p align="center">
 <img src="./images/dust1.png" width="200" >	<img src="./images/dust2.png" width="200" >
 </p>
+
 -------------------------------------------------------------
+
 ## TECH STACK
 ```
 Vue.js JavaScript vue-cli 3.0 bootstrap DynamoDB Amazon S3 Python Zeplin Lambda AWS Amplify 
