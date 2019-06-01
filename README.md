@@ -44,7 +44,7 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 </p>
 
 <p align="center">
-<img src="./images/dust.png" width="200" >	<img src="./images/dust2.png" width="200" >
+<img src="./images/dust1.png" width="200" >	<img src="./images/dust2.png" width="200" >
 </p>
 
 -------------------------------------------------
