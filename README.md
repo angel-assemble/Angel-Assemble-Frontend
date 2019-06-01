@@ -24,7 +24,7 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 3. 유저가 해당 행동을 해 재난 해결을 도움
     - 기여한 유저들에게 감사 메세지, 명예의 전당, 이에 대한 정보를 모아 국가 기관에 넘겨 포상 데이터
 
-#### PAGE
+### PAGE
 
 - 메인 페이지(회원가입 버튼, 로그인 버튼)
     - 회원가입 버튼 클릭 : 회원가입 페이지 (회원가입 이후 메인 페이지로 이동)
@@ -43,13 +43,13 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 <p align="center">
 <img src="./images/dust1.png" width="200" >	<img src="./images/dust2.png" width="200" >
 </p>
-
-### TECH STACK
+-------------------------------------------------------------
+## TECH STACK
 ```
 Vue.js JavaScript vue-cli 3.0 bootstrap DynamoDB Amazon S3 Python Zeplin Lambda AWS Amplify 
 ```
 
--------------------------------------------------
+
 ## vue cli3
 
 ```
@@ -93,7 +93,7 @@ $ amplify add auth
 ```
 $ amplify push
 ```
---------------------------------
+
 ## src/main.js 수정
 
 ```javascript
@@ -119,7 +119,8 @@ new Vue({
 
 ----------------------------------------------------------
 
-## AWS amplify Authentication Components :  https://aws-amplify.github.io/docs/js/vue#authentication-components
+## AWS amplify Authentication Components
+* https://aws-amplify.github.io/docs/js/vue#authentication-components
 
 * LOGIN
 
