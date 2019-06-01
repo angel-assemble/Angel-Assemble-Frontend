@@ -9,11 +9,12 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 <img src="./images/GUDOME.png" width="300" >	
 </p>
 
-### FOCUS ON 자연재해
+### OUR FOCUS IS 자연재해
 
 - 재난 사항마다 해당 지역에서 해결 우선순위 제공
 - 재난 사항마다 사람마다 해야할 역할 배분, 우선순위 제공
 
+### FLOW
 1. User가 사전정보 등록
     - 직업/나이/운전가능/기타 재난시에 유용한 능력들
 2. 재난 발생시 어드민이 A지역 자연재해를 등록후 A, B, C 지역 주민들에게 각각 다른 알림을 보냄
@@ -23,7 +24,7 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 3. 유저가 해당 행동을 해 재난 해결을 도움
     - 기여한 유저들에게 감사 메세지, 명예의 전당, 이에 대한 정보를 모아 국가 기관에 넘겨 포상 데이터
 
-#### page
+#### PAGE
 
 - 메인 페이지(회원가입 버튼, 로그인 버튼)
     - 회원가입 버튼 클릭 : 회원가입 페이지 (회원가입 이후 메인 페이지로 이동)
@@ -43,12 +44,27 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 <img src="./images/dust1.png" width="200" >	<img src="./images/dust2.png" width="200" >
 </p>
 
+### TECH STACK
+```
+Vue.js JavaScript vue-cli 3.0 bootstrap DynamoDB Amazon S3 Python Zeplin Lambda AWS Amplify 
+```
+
 -------------------------------------------------
-## vue cli3설치
+## vue cli3
+
+```
+$ npm install -g @vue/cli
+```
+
+```
+$ vue create my-project
+```
 
 ```
 $ npm run serve
 ```
+
+## AWS Amplify
 
 ```
 $ npm install aws-amplify aws-amplify-vue@beta
@@ -78,7 +94,7 @@ $ amplify add auth
 $ amplify push
 ```
 --------------------------------
-## main.js
+## src/main.js 수정
 
 ```javascript
 import Vue from 'vue'
