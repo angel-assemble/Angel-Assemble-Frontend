@@ -12,3 +12,21 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
 ## amplify add auth
 - 참고 : https://github.com/awskrug/ausg-seminar-2019/tree/master/WebTrack3#implementing-authentication
 ## amplify push
+--------------------------------
+## main.js
+
+```javascript
+import Amplify, * as AmplifyModules from 'aws-amplify'
+import { AmplifyPlugin } from 'aws-amplify-vue'
+import awsmobile from './aws-exports'
+Amplify.configure(awsmobile)
+
+Vue.use(AmplifyPlugin, AmplifyModules)
+
+// It's important that you instantiate the Vue instance after calling Vue.use!
+
+new Vue({
+  render: h => h(App)
+}).$mount('#app')
+
+```
