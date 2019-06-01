@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "angel-assemble-dev-20190602001256-authRole",
+            "UnauthRoleArn": "arn:aws:iam::901113954737:role/angel-assemble-dev-20190602001256-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::901113954737:role/angel-assemble-dev-20190602001256-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "angel-assemble-dev-20190602001256-deployment",
+            "UnauthRoleName": "angel-assemble-dev-20190602001256-unauthRole",
+            "StackName": "angel-assemble-dev-20190602001256",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:901113954737:stack/angel-assemble-dev-20190602001256/bc83ad50-847f-11e9-bc40-028a2aa6e0a8"
+        },
+        "categories": {
+            "auth": {
+                "angelassemble9ab9652c": {}
+            }
+        }
+    }
+}

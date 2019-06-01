@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"angelassemble9ab9652c": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
