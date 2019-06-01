@@ -35,3 +35,5 @@ new Vue({
 }).$mount('#app')
 
 ```
+## using Authentication Components
+* https://aws-amplify.github.io/docs/js/vue#authentication-components
