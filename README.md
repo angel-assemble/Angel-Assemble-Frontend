@@ -23,6 +23,9 @@ AngelHack HACKATHON Seoul 2019 - Frontend Repository
     - C지역 : 여려가지의 예방조치 안내
 3. 유저가 해당 행동을 해 재난 해결을 도움
     - 기여한 유저들에게 감사 메세지, 명예의 전당, 이에 대한 정보를 모아 국가 기관에 넘겨 포상 데이터
+<p align="center">
+<img src="./images/area.png" width="300" >	
+</p>
 
 ### PAGE
 
