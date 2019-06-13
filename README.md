@@ -68,7 +68,6 @@ $ vue create my-project
 
 ```
 > default(babel, eslint)
-
 ```
 
 ```
