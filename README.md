@@ -67,6 +67,11 @@ $ vue create my-project
 ```
 
 ```
+> default(babel, eslint)
+
+```
+
+```
 $ npm run serve
 ```
 
